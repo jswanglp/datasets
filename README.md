@@ -1,4 +1,4 @@
-# TensorFlow Datasets
+# TensorFlow-Datasets
 
 TensorFlow Datasets provides many public datasets as `tf.data.Datasets`.
 
